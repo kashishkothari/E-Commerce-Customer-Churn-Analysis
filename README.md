@@ -1,12 +1,12 @@
 # 🛒 E-Commerce Customer Churn Analysis | Power BI
 
-## 📌 Project Overview
+# 📌 Project Overview
 
 An interactive **Power BI dashboard** developed to analyze e-commerce customer churn, customer behavior, risk levels, spending patterns, and revenue performance.
 
 The project helps identify churn trends and provides insights that can support **customer retention and data-driven business decisions**.
 
-## 🎯 Key Objectives
+# 🎯 Key Objectives
 
 - Analyze customer churn and retention.
 - Identify customers based on risk levels.
@@ -15,14 +15,14 @@ The project helps identify churn trends and provides insights that can support *
 - Compare revenue across cities.
 - Explore churn using customer status, gender, and payment method.
 
-## 📊 Key KPIs
+# 📊 Key KPIs
 
 - **Total Customers:** 95K
 - **Churn Customers:** 38K
 - **Churn Rate:** 39.84%
 - **Active Customers:** 6K
 
-## 📈 Dashboard Analysis
+# 📈 Dashboard Analysis
 
 - Customers by Risk Level & Churn
 - Average App Usage by Churn
@@ -31,11 +31,11 @@ The project helps identify churn trends and provides insights that can support *
 - Total Customers by Churn
 - Total Revenue by City
 
-## 🗂️ Dataset Fields
+# 🗂️ Dataset Fields
 
 Customer Id, Age, Gender, City, Activity status, App usage time, Cart abandon rate, Churn, Customer risk level, Customer status, Days since last login, Discount usage, Engagement segment, Monthly spend, Order frequency, Payment method, Revenue per order, Spending segment, Support tickets, Tenure (months), Total orders, Total Revenue.
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - Power BI Desktop
 - Power Query
